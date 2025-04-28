@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "aula": "Introdução ao Node.js",
+        "professor": "João"
+    },
+    {
+        "id": 2,
+        "aula": "Análise Combinatória",
+        "professor": "Maria"
+    }
+]
