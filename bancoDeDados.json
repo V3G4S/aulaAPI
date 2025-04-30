@@ -8,5 +8,10 @@
         "id": 2,
         "aula": "Análise Combinatória",
         "professor": "Maria"
+    },
+    {
+        "aula": "Química Orgânica",
+        "professor": "José",
+        "id": "382660a1-9792-4ec1-8cc3-8d830f7eb54e"
     }
 ]
